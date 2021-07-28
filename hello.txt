@@ -7,4 +7,4 @@ hello world ! hot-fix test
 		hot-fix
 hello world !
 hello world !  leslie
-hello world !
+hello world ! scala
